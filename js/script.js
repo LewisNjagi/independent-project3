@@ -17,4 +17,19 @@ $(document).ready(function() {
         $('.card-img-top3').hide();
         $('.card-title3').hide();
     });
+    $('.card-title1').click(function() {
+        $('.card-text1').show();
+        $('.card-img-top1').hide();
+        $('.card-title1').hide();
+    });
+    $('.card-title2').click(function() {
+        $('.card-text2').show();
+        $('.card-img-top2').hide();
+        $('.card-title2').hide();
+    });
+    $('.card-title3').click(function() {
+        $('.card-text3').show();
+        $('.card-img-top3').hide();
+        $('.card-title3').hide();
+    });
 });

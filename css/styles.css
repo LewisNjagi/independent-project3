@@ -347,3 +347,11 @@ html {
     padding: 50px;
     margin-left: 255px;
 }
+.media {
+    float: left;
+    padding: 10px;
+}
+.clear {
+    text-align: center;
+    background: none ;
+}

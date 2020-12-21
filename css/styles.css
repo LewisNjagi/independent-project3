@@ -1,0 +1,21 @@
+html {
+    overflow-x: hidden;
+}
+.logo {
+    margin-top: -720px;
+}
+.well {
+    font-size: 25px;
+    margin-top: -320px;
+    font-size: 50px;
+    line-height: 70px;
+    font-style: Inter;
+}
+.amaze {
+    font-size: 15px;
+    font-style: Inter;
+}
+
+.mouse {
+    margin-bottom: -300px;
+}

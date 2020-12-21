@@ -117,3 +117,188 @@ html {
     display: none;
     width: 410px
 }
+.row-fluid4 {
+    height: 700px;
+    margin-left: -18px;
+    margin-right: -15px;
+}
+.port {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Inter';
+    margin-top: 50px;
+}
+.col4 {
+    height: 240px;
+    margin: 10px;
+    display: flex;
+    margin: 40px;
+    margin-left: 60px
+}
+.card-image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.card01 {
+    padding:5px;
+    border: none;
+    margin: 10px;
+    position: relative;
+    display: flex;
+}
+.image-overlay1 {
+    position: absolute;
+    width: 278px;
+    height: 210px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    opacity: 0;
+}
+.image-title {
+    border: solid;
+    margin: 20px;
+    padding-right: 80px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.card2 {
+    padding:5px;
+    border: none;
+    margin: 10px;
+    position: relative;
+    display: flex;
+}
+.image-overlay2 {
+    position: absolute;
+    width: 278px;
+    height: 210px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    opacity: 0;
+}
+.image-title2 {
+    border: solid;
+    margin: 20px;
+    padding-right: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.card3 {
+    padding:5px;
+    border: none;
+    margin: 10px;
+    position: relative;
+    display: flex;
+}
+.image-overlay3 {
+    position: absolute;
+    width: 278px;
+    height: 210px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    opacity: 0;
+}
+.card4 {
+    padding:5px;
+    border: none;
+    margin: 10px;
+    position: relative;
+    display: flex;
+}
+.image-overlay4 {
+    position: absolute;
+    width: 278px;
+    height: 210px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    opacity: 0;
+}
+.card5 {
+    padding:5px;
+    border: none;
+    margin: 10px;
+    position: relative;
+    display: flex;
+}
+.image-overlay5 {
+    position: absolute;
+    width: 278px;
+    height: 210px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    opacity: 0;
+}
+.image-title5 {
+    border: solid;
+    margin: 20px;
+    padding-right: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.card6 {
+    padding:5px;
+    border: none;
+    margin: 10px;
+    position: relative;
+    display: flex;
+}
+.image-overlay6 {
+    position: absolute;
+    width: 278px;
+    height: 210px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    opacity: 0;
+}
+.card7 {
+    padding:5px;
+    border: none;
+    margin: 10px;
+    position: relative;
+    display: flex;
+}
+.image-overlay7 {
+    position: absolute;
+    width: 278px;
+    height: 210px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    opacity: 0;
+}
+.card8 {
+    padding:5px;
+    border: none;
+    margin: 10px;
+    position: relative;
+    display: flex;
+}
+.image-overlay8 {
+    position: absolute;
+    width: 278px;
+    height: 210px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    display: flex;
+    opacity: 0;
+}
+.imgs {
+    float: left;
+    height: 100%;
+    max-width: 100%;
+    width: 30%;
+    min-width: 200px;
+}

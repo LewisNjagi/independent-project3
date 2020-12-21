@@ -355,3 +355,12 @@ html {
     text-align: center;
     background: none ;
 }
+.delani {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Inter';
+}
+.year {
+    text-align: center;
+    font-family: 'Inter';
+}

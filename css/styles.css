@@ -302,3 +302,17 @@ html {
     width: 30%;
     min-width: 200px;
 }
+.row-fluid5 {
+    height: 500px;
+    margin-left: -18px;
+    margin-right: -15px;
+}
+::placeholder {
+    color: white;
+}
+#br-img {
+    background-image: url(/img/Footer/c_image.jpg);
+    height: 100%;
+    width: 100%;
+}
+

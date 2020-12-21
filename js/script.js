@@ -47,4 +47,52 @@ $(document).ready(function() {
         $('.card-img-top3').show();
         $('.card-title3').show()
     });
+    $('.card01').mouseenter(function() {
+        $('.image-overlay1').css({ opacity: 1});
+    });
+    $('.card01').mouseleave(function() {
+        $('.image-overlay1').css({opacity: 0});
+    });
+    $('.card2').mouseenter(function() {
+        $('.image-overlay2').css({ opacity: 1});
+    });
+    $('.card2').mouseleave(function() {
+        $('.image-overlay2').css({opacity: 0});
+    });
+    $('.card3').mouseenter(function() {
+        $('.image-overlay3').css({ opacity: 1});
+    });
+    $('.card3').mouseleave(function() {
+        $('.image-overlay3').css({opacity: 0});
+    });
+    $('.card4').mouseenter(function() {
+        $('.image-overlay4').css({ opacity: 1});
+    });
+    $('.card4').mouseleave(function() {
+        $('.image-overlay4').css({opacity: 0});
+    });
+    $('.card5').mouseenter(function() {
+        $('.image-overlay5').css({ opacity: 1});
+    });
+    $('.card5').mouseleave(function() {
+        $('.image-overlay5').css({opacity: 0});
+    });
+    $('.card6').mouseenter(function() {
+        $('.image-overlay6').css({ opacity: 1});
+    });
+    $('.card6').mouseleave(function() {
+        $('.image-overlay6').css({opacity: 0});
+    });
+    $('.card7').mouseenter(function() {
+        $('.image-overlay7').css({ opacity: 1});
+    });
+    $('.card7').mouseleave(function() {
+        $('.image-overlay7').css({opacity: 0});
+    });
+    $('.card8').mouseenter(function() {
+        $('.image-overlay8').css({ opacity: 1});
+    });
+    $('.card8').mouseleave(function() {
+        $('.image-overlay8').css({opacity: 0});
+    });
 });

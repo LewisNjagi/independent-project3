@@ -32,4 +32,19 @@ $(document).ready(function() {
         $('.card-img-top3').hide();
         $('.card-title3').hide();
     });
+    $('.card-text1').click(function() {
+        $(this).hide();
+        $('.card-img-top1').show();
+        $('.card-title1').show();
+    });
+    $('.card-text2').click(function() {
+        $(this).hide();
+        $('.card-img-top2').show();
+        $('.card-title2').show()
+    });
+    $('.card-text3').click(function() {
+        $(this).hide();
+        $('.card-img-top3').show();
+        $('.card-title3').show()
+    });
 });

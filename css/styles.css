@@ -43,3 +43,14 @@ html {
     line-height: 40px;
     font-family: 'Inter';
 }
+.row-fluid2 {
+    height: 400px;
+    margin-left: -18px;
+    margin-right: -15px;
+}
+.serve {
+    position: relative;
+    text-align: center;
+    margin-top: -230px;
+    color: white;
+}

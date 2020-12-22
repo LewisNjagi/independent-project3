@@ -97,11 +97,11 @@ $(document).ready(function() {
     });
 });
 $(document).ready(function() {
-    $('.button').click(function() {
-        var name = $('input.name2').val();
-        var email = $('input.email').val();
+    $('.btn').click(function() {
+        var name = $('input#name').val();
+        var email = $('input#exampleInputEmail1').val();
         var message = $('input.message').val();
-        if ($('.name2').val() && $('.email').val()) {
+        if ($('#name').val() && $('#exampleInputEmail1').val()) {
             alert(name + ', we have received your message. Thank you for reaching out to us.');
         } else {
             alert('Input field required');

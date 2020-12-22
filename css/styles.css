@@ -318,7 +318,7 @@ html {
     position: relative;
 }
 ::placeholder {
-    color: white;
+    color: white !important;
 }
 .engine {
     height: 100%;
@@ -339,25 +339,34 @@ html {
     position: absolute;
     background: none;
 }
-.email {
-    margin-top: 80px !important;
+#exampleInputEmail1 {
+    margin-top: -38px !important;
     background: none;
     width: 400px !important;
     margin-left: 100px;
 }
-.name2 {
+input {
+    color: white !important;
+}
+#name {
     background: none;
-    margin-top: -80px;
+    margin-top: 100px;
     margin-left: 520px;
     width: 400px !important;
 }
-.message {
+#comment {
     background: none;
     margin-top: -10px;
     margin-left: 100px;
     width: 820px !important;
     height: 200px;
 }
+button {
+    text-align: center !important;
+    margin-left: 450px;
+    background: none !important;
+    border-color: white !important;
+} 
 .button {
     margin-left: -400px;
     background-color: white !important;

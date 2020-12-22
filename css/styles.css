@@ -317,9 +317,6 @@ html {
     margin-right: -15px;
     position: relative;
 }
-::placeholder {
-    color: white !important;
-}
 .engine {
     height: 100%;
     width: 100%;
@@ -338,6 +335,9 @@ html {
 .validate {
     position: absolute;
     background: none;
+}
+::placeholder {
+    color: white !important;
 }
 #exampleInputEmail1 {
     margin-top: -38px !important;

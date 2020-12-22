@@ -315,35 +315,53 @@ html {
     height: 500px;
     margin-left: -18px;
     margin-right: -15px;
+    position: relative;
 }
 ::placeholder {
     color: white;
 }
-#br-img {
-    background-image: url(/img/Footer/c_image.jpg);
+.engine {
     height: 100%;
     width: 100%;
 }
 #mc_embed_signup {
     background: none;
     color: white;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -500px;
+}
+.cont {
+    color: rgb(255, 255, 255);
+    left: 500px;
 }
 .validate {
     position: absolute;
     background: none;
 }
-#mc_embed_signup_scroll h2 {
-    text-align: center;
-}
 .email {
     margin-top: 80px !important;
     background: none;
+    width: 400px !important;
+    margin-left: 100px;
 }
 .name2 {
     background: none;
+    margin-top: -80px;
+    margin-left: 520px;
+    width: 400px !important;
 }
-.lname2 {
+.message {
     background: none;
+    margin-top: -10px;
+    margin-left: 100px;
+    width: 820px !important;
+    height: 200px;
+}
+.button {
+    margin-left: -400px;
+    background-color: white !important;
+    color: black !important;
 }
 .row-fluid6 {
     height: 250px;

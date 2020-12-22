@@ -96,3 +96,15 @@ $(document).ready(function() {
         $('.image-overlay8').css({opacity: 0});
     });
 });
+$(document).ready(function() {
+    $('.button').click(function() {
+        var name = $('input.name2').val();
+        var email = $('input.email').val();
+        var message = $('input.message').val();
+        if ($('.name2').val() && $('.email').val()) {
+            alert(name + ', we have received your message. Thank you for reaching out to us.');
+        } else {
+            alert('Input field required');
+        }
+    });
+});

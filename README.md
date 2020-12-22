@@ -25,4 +25,5 @@ If you run into any issues or have questions, ideas or concerns. Contact me on m
 ### License
 *MIT License
 See below for more details on licensing.*
+https://opensource.org/licenses/MIT
 Copyright (c) 2020 **Lewis Njagi**

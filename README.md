@@ -1,10 +1,10 @@
 # independent-project3
 Independent project week 3 at Moringa school. 
 # Delani Studio
-#### {Create and implement visual design and workflows}, {22nd December 2020}
-#### By **{Lewis Njagi}**
+#### Create and implement visual design and workflows, 22nd December 2020
+#### By **Lewis Njagi**
 ## Description
-Software development process, unifying design, development and product management to create exceptional products. Translate business goals and product requirements into effective and elegant solutions. Buliding products that are always ready to go live }
+Software development process, unifying design, development and product management to create exceptional products. Translate business goals and product requirements into effective and elegant solutions. Buliding products that are always ready to go live 
 ## Setup/Installation Requirements
 * Computer - 4 GHz minimum, multi-core processor.
 * RAM - At least 4GB, preferably higher, and comensurate with concurrent usage.
@@ -14,12 +14,12 @@ Software development process, unifying design, development and product managemen
 * Smartphone - Android or ios operating system smartphone.
 {It is easy for potential users, employers and collaborators can ru the app. No server and depencies needed. This app does not need to run on any code.}
 ## Known Bugs
-{There is an error on too many recent signUp requests.}
+There is an error on too many recent signUp requests.
 ## Technologies Used
-{HTML
+HTML
 CSS
 JAVASCRIPT
-JQUERY}
+JQUERY
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns. Contact me on my email at lewismaybach@gmail,com
 ### License

@@ -21,7 +21,8 @@ CSS
 JAVASCRIPT
 JQUERY}
 ## Support and contact details
-{lewismaybach@gmail,com}
+If you run into any issues or have questions, ideas or concerns. Contact me on my email at lewismaybach@gmail,com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*MIT License
+See below for more details on licensing.*
+Copyright (c) 2020 **Lewis Njagi**
